@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://github.com/lyrics00?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/lyrics00?style=flat&label=Followers"></a>
   <a href="https://github.com/lyrics00?tab=repositories&sort=stargazers"><img alt="Total Stars" src="https://img.shields.io/github/stars/lyrics00?affiliations=OWNER%2CCOLLABORATOR&style=flat&label=Stars"></a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=lyrics00&color=0e75b6&style=flat&label=Views">
 </p>
 
 ---
